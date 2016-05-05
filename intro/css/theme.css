@@ -1,0 +1,19 @@
+.test{
+	width: 650px;
+	height: 600px;
+	margin: 5px auto;
+}
+
+body {
+    margin: 50px;
+    background-color: black;
+    padding: 0 0 0 350px;
+}
+
+h2 {
+    color: white;   
+}
+
+b {
+    color: white;   
+}
