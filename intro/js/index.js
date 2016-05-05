@@ -885,6 +885,9 @@
                      else {
                      setTimeout(function () {
                      alert("Game Over.");
+                     var temp = Number(getCookie("level"));
+                     temp-=1;
+                     setCookie("level", temp.toString());
                      window.location.reload();
                      }
                      , 2000);
