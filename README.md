@@ -1,2 +1,4 @@
 # Pac-man
-Pacman clone.
+Pacman clone
+
+Run python main.py from terminal.
