@@ -1,4 +1,4 @@
 # Pac-man
 Pacman clone
 
-Run python main.py from terminal.
+Download and open index.html.
